@@ -2,8 +2,8 @@
     <ul>
         <li class="caption">个人信息管理
             <ol>
-                <li><a href="inbox.htm">站内留言(0/1)</a></li>
-                <li><a href="profile.htm">编辑个人资料</a></li>
+<!--                <li><a href="inbox.htm">站内留言(0/1)</a></li>-->
+<!--                <li><a href="profile.htm">编辑个人资料</a></li>-->
                 <li><a href="admin/chpwd">修改登录密码</a></li>
                 <li><a href="admin/userSettings">网页个性设置</a></li>
             </ol>

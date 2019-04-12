@@ -86,10 +86,10 @@ $loginUser = $this -> session ->userdata('loginUser');
         <div class="clear"></div>
     </div>
     <div id="OSC_Content">
-        <div class="SpaceChannel">
-            <div id="portrait"><a href="admin/list_blogs"><img src="images/portrait.gif" alt="Johnny" title="Johnny"
-                                                             class="SmallPortrait" user="154693" align="absmiddle"></a>
-            </div>
+<!--        <div class="SpaceChannel">-->
+<!--            <div id="portrait"><a href="admin/list_blogs"><img src="" alt="Johnny" title="Johnny"-->
+<!--                                                             class="SmallPortrait" user="154693" align="absmiddle"></a>-->
+<!--            </div>-->
             <div id="lnks">
                 <strong>
                     <?php if($loginUser){?>
